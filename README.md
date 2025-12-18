@@ -5,6 +5,10 @@ This project showcases an interactive **Excel dashboard** built using the Sample
 The goal is to analyze sales and profit performance across regions, categories, sub-categories, and time.
 
 The dashboard is designed for **business stakeholders** to quickly identify trends, top-performing segments, and problem areas.
+## 📊 Dashboard Preview
+
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
 
 ---
 
